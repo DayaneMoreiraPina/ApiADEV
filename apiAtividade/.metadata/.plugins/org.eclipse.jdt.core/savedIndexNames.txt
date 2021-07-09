@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\day_p\Downloads\API-STRING 05-07-20210709T180039Z-001\API-STRING 05-07\apiAtividade\.metadata\.plugins\org.eclipse.jdt.core
+2348750313.index
